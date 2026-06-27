@@ -10,7 +10,7 @@ from aiogram.types import Message
 
 from exif_utils import extract_metadata
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8846679545:AAGYEUsOrFQOgfq30524DrEZYgniRDhrM4k")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
 MAX_FILE_SIZE = 20 * 1024 * 1024
 
