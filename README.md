@@ -1,4 +1,4 @@
-# geoint
+# metashot
 
 ![python](https://img.shields.io/badge/python-3.10+-3776ab) ![aiogram](https://img.shields.io/badge/aiogram-3.29-2ca5e0) ![pillow](https://img.shields.io/badge/pillow-12-92c) ![license](https://img.shields.io/badge/license-mit-black)
 
